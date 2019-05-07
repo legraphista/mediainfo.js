@@ -1,0 +1,11 @@
+{
+  "name": "mediainfo.js",
+  "version": "1.0.0",
+  "description": "MediaInfoLib WASM and JS files",
+  "main": "index.js",
+  "author": "stefan.gabriel.muscalu@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "install": "node build.js"
+  }
+}
